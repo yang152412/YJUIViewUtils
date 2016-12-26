@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YJUIViewUtils'
   s.version          = '0.1.0'
-  s.summary          = 'YJUIViewUtils.UIViewUtils.include .left, .right ....   depend on nicklockwood/ViewUtils, add .centerX, .centerY,removeAllSubviews'
+  s.summary          = 'YJUIViewUtils.UIViewUtils.include .left, .right.centerX, .centerY,removeAllSubviews'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

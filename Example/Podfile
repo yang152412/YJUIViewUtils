@@ -1,4 +1,4 @@
-use_frameworks!
+#use_frameworks!
 
 target 'YJUIViewUtils_Example' do
   pod 'YJUIViewUtils', :path => '../'
