@@ -1,0 +1,6 @@
+framework module YJUIViewUtils {
+  umbrella header "YJUIViewUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

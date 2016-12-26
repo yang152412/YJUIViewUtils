@@ -1,0 +1,16 @@
+PODS:
+  - YJUIViewUtils (0.1.0)
+
+DEPENDENCIES:
+  - YJUIViewUtils (from `../`)
+
+EXTERNAL SOURCES:
+  YJUIViewUtils:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YJUIViewUtils: 4d3e11d66be30d9e5f09b13b01f6f5307258d155
+
+PODFILE CHECKSUM: 7c0be6015bcec7852f1f3eb62b0b114d56db1e3a
+
+COCOAPODS: 1.1.1
