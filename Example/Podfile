@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YJUIViewUtils_Example' do
+  pod 'YJUIViewUtils', :path => '../'
+
+  target 'YJUIViewUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
